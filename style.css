@@ -8,10 +8,10 @@ body {
 
 h1 {
     background-color: #6f3b8f;
-    color:rgb(217, 153, 224);
+    color:white;
     text-align: center;
     padding: 25px;
-    border-radius: 15px;
+    border-radius: 12px;
     font-size: 40px;
 }
 
@@ -22,18 +22,16 @@ h2 {
 }
 
 p {
-    background-color: white;
+    background-color: rgb(226, 123, 211);
     padding: 18px;
     border-radius: 10px;
-    margin: 20px auto;
+    margin: 20px;
     max-width: 900px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 img {
     display: block;
-    width: 70px;
-    max-width: 700px;
+    max-width: 1000px;
     margin: 25px auto;
     border-radius: 15px;
 
