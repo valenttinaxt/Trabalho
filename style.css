@@ -40,3 +40,44 @@ img {
     max-width: 750px;
 
 }
+
+table {
+
+   width: 100%;
+   border-collapse: collapse;
+   font-family: Arial, sans-serif;
+   background-color: #ffffff;
+   border-radius: 15px;
+   overflow: hidden;
+
+}
+
+th {
+  
+    background: linear-gradient(90deg, #9b59b6, #d8a4ff);
+    color: white;
+    padding: 15px;
+    text-align: center;
+
+}
+
+td {
+    padding: 13px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    color: #4b286d;
+
+}
+
+tr:hover {
+
+    background-color: #f4e8ff
+
+}
+
+td:fisrt-child {
+
+   font-weight:bold;
+
+}
+
