@@ -82,3 +82,71 @@ td:fisrt-child {
 
 }
 
+body {
+    font-family: Arial, sans-serif;
+    background: f3eafa;
+    margin: 0;
+    padding: 30px;
+
+}
+
+.conteiner {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 5px 20px #ccc;
+
+}
+
+h1 {
+    text-align: center;
+    color: #6b3fa0;
+}
+
+h2 {
+    color: #6b3fa0;
+    margin-top: 30px;
+}
+
+.questão {
+    margin-bottom: 25px;
+    padding: 20px;
+    background: #faf7ff;
+    border-radius: 15px;
+
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+    cursor: pointer;
+
+}
+
+input[type="radio"] {
+    margin-right: 8px;
+
+}
+ input[type="checkbox"]  {
+    margin-right: 8px;
+
+ }
+
+ button {
+    display: block;
+    margin: 30px;
+    padding: 13px 30px;
+    border: none;
+    border-radius: 10px;
+    background: #6b3fa0;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+
+ }
+
+ button:hover {
+    background: #4f2d7a;
+ }
